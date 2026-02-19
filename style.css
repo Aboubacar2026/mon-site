@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f4f8;
+    text-align: center;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+h2 {
+    color: #2f855a;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 8px 0;
+}
+.container {
+    background-color: white;
+    width: 60%;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+button {
+    background-color: #1e3a8a;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #1e3a8a;
+    color: white;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.btn:hover {
+    background-color: #163172;
+}
+
+.photo {
+    width: 120px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+.projets {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.carte {
+    background-color: #f8f9fc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+}
+.projets {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.carte {
+    background-color: #f8f9fc;
+    padding: 20px;
+    border-radius: 12px;
+    width: 220px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    transition: transform 0.3s ease;
+}
+
+.carte:hover {
+    transform: translateY(-5px);
+}
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    .projets {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+nav {
+    background-color: #1e3a8a;
+    padding: 15px 0;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+.competence {
+    margin: 15px 0;
+    text-align: left;
+}
+
+.barre {
+    background-color: #ddd;
+    border-radius: 20px;
+    overflow: hidden;
+    height: 10px;
+}
+
+.niveau {
+    height: 10px;
+    background-color: #1e3a8a;
+}
+
+.html {
+    width: 80%;
+}
+
+.css {
+    width: 70%;
+}
+
+.cpp {
+    width: 60%;
+}
+
