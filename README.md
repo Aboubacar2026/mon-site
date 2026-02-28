@@ -1,54 +1,59 @@
-# mon-site
 # 👋 Hi, I'm Aboubacar Sidiki Camara
 
 🎓 Computer Science Student | Université de Moncton (2026)  
-🏆 Ranked 3rd Nationwide in Mathematical Sciences – Guinea (2024–2025)  
-💻 Aspiring Software Engineer with a global vision  
+🏆 3rd Nationwide in Mathematical Sciences – Guinea  
+💻 Aspiring Software Engineer  
+🌍 Building skills for global impact  
 
 ---
 
-## 🚀 About Me
+## 🌟 Professional Profile
 
-I am a disciplined and highly motivated computer science student passionate about software development and problem-solving.
+I am a disciplined and ambitious computer science student with a strong foundation in mathematics and software development.
 
-Ranked among the top students nationally in Mathematical Sciences, I have built a strong analytical foundation that drives my approach to programming and technology.
+Ranked among the top students nationally, I have developed analytical precision, resilience, and structured thinking.
 
-My ambition goes beyond local impact — I aim to contribute to innovative solutions at an international scale.
+I am currently focused on strengthening my programming expertise and building projects that reflect performance, scalability, and clean architecture.
 
 ---
 
-## 🛠 Technical Skills
+## 🧠 Core Skills
 
 - C++ (Object-Oriented Programming)
+- Algorithms & Data Structures
+- Problem Solving
 - HTML, CSS, JavaScript
-- Data Structures & Algorithms
 - Git & GitHub
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-- 🎯 Guess the Number Game (C++)
-- 🧮 C++ Calculator
-- 🔢 Fibonacci Generator
-- 📐 GCD Program
-- 🌐 Personal Portfolio Website
-
----
-
-## 🎯 Vision
-
-My goal is to become a high-level software engineer capable of building efficient, scalable, and impactful applications.
-
-I believe technology is a powerful tool for transformation — and I am committed to continuous learning and excellence.
+| Project | Description | Technology |
+|---------|------------|------------|
+| 🎯 Guess The Number | Interactive console game | C++ |
+| 🧮 Smart Calculator | Mathematical operations system | C++ |
+| 🔢 Fibonacci Generator | Recursive & iterative implementation | C++ |
+| 📐 GCD Program | Euclidean algorithm implementation | C++ |
+| 🌐 Portfolio Website | Personal developer website | HTML, CSS |
 
 ---
 
-## 📫 Contact Me
+## 🎯 Long-Term Vision
 
-🌐 Portfolio: https://Aboubacar2026.github.io/mon-site/  
-🔗 GitHub: https://github.com/Aboubacar2026  
+My objective is to become a high-level software engineer capable of designing efficient, scalable, and intelligent systems.
+
+I believe discipline, consistency, and continuous learning are the foundations of excellence.
 
 ---
 
-> "Excellence is not a skill. It is an attitude."
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aboubacar2026&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: https://Aboubacar2026.github.io/mon-site/
+- 💼 GitHub: https://github.com/Aboubacar2026
