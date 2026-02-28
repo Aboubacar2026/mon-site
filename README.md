@@ -2,48 +2,58 @@
 
 🎓 Computer Science Student | Université de Moncton (2026)  
 🏆 3rd Nationwide in Mathematical Sciences – Guinea  
-💻 Aspiring Software Engineer  
-🌍 Building skills for global impact  
+💻 Competitive Programmer & Aspiring Software Engineer  
+🌍 Future builder of high-performance systems  
 
 ---
 
-## 🌟 Professional Profile
+## 🧠 Competitive Mindset
 
-I am a disciplined and ambitious computer science student with a strong foundation in mathematics and software development.
+I approach programming as both engineering and competition.
 
-Ranked among the top students nationally, I have developed analytical precision, resilience, and structured thinking.
+With a strong mathematical background and national-level academic ranking, I thrive in environments that demand analytical precision, speed, and structured problem-solving.
 
-I am currently focused on strengthening my programming expertise and building projects that reflect performance, scalability, and clean architecture.
+I focus on writing optimized, efficient, and clean code — not just working code.
 
 ---
 
-## 🧠 Core Skills
+## ⚡ Technical Strengths
 
-- C++ (Object-Oriented Programming)
+- C++ (Advanced problem solving)
 - Algorithms & Data Structures
-- Problem Solving
+- Time & Space Complexity Optimization
+- Mathematical Reasoning
 - HTML, CSS, JavaScript
 - Git & GitHub
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Competitive Projects
 
-| Project | Description | Technology |
-|---------|------------|------------|
-| 🎯 Guess The Number | Interactive console game | C++ |
-| 🧮 Smart Calculator | Mathematical operations system | C++ |
-| 🔢 Fibonacci Generator | Recursive & iterative implementation | C++ |
-| 📐 GCD Program | Euclidean algorithm implementation | C++ |
-| 🌐 Portfolio Website | Personal developer website | HTML, CSS |
+| Project | Focus | Key Concept |
+|---------|-------|-------------|
+| 🎯 Guess The Number | Logic & User Interaction | Conditional Structures |
+| 🔢 Fibonacci Generator | Recursive vs Iterative | Complexity Analysis |
+| 📐 GCD Program | Optimization | Euclidean Algorithm |
+| 🧮 Smart Calculator | Structured Design | Modular Programming |
+| 🌐 Portfolio Website | UI Structure | Front-End Fundamentals |
 
 ---
 
-## 🎯 Long-Term Vision
+## 📈 Current Focus
 
-My objective is to become a high-level software engineer capable of designing efficient, scalable, and intelligent systems.
+- Mastering advanced algorithms
+- Improving execution speed in problem-solving
+- Strengthening data structure mastery
+- Preparing for competitive programming platforms
 
-I believe discipline, consistency, and continuous learning are the foundations of excellence.
+---
+
+## 🎯 Long-Term Objective
+
+To become a high-performance software engineer capable of solving complex algorithmic challenges and building scalable systems at global technology companies.
+
+I believe competitive thinking builds elite engineering discipline.
 
 ---
 
